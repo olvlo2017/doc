@@ -16,3 +16,6 @@ UDP通讯方式分析
 通讯端口分析
 远程通讯端口范围: 8000。
 （7）练习wireshark的过滤功能
+（8）当前以公开课为主吧，搜索号码，群发邮件，破解邮件验证码问题。
+	初步发1000封邮件
+（9）http://www.runoob.com/sqlite/sqlite-installation.html
