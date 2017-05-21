@@ -18,4 +18,13 @@ UDP通讯方式分析
 （7）练习wireshark的过滤功能
 （8）当前以公开课为主吧，搜索号码，群发邮件，破解邮件验证码问题。
 	初步发1000封邮件
-（9）http://www.runoob.com/sqlite/sqlite-installation.html
+（9）.quit退出sqlite数据库
+CREATE TABLE QQINFO(
+   ID			INTEGER PRIMARY KEY     NOT NULL,
+   NAME			TEXT	NULL,
+   QQGROUP		TEXT	NULL,
+   SEND_TIME	TEXT	NULL
+);
+
+INSERT INTO QQINFO VALUES (805246820,'春风',null,null);
+
