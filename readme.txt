@@ -39,4 +39,4 @@ CREATE TABLE QQINFO(
 );
 
 INSERT INTO QQINFO VALUES (805246820,'春风',null,null);
-
+（10）微信聊天机器人：http://blog.just4fun.site/create-a-smart-chat-bot.html
